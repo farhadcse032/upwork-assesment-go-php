@@ -1,0 +1,31 @@
+[
+    { 
+        "id": 1, 
+        "name": "Alice", 
+        "email": "alice@example.com",
+        "designation":"Junior Full Stack Developer",
+        "stack":["PHP", "JS", "MySQL"]
+    },
+    { 
+        "id": 2, 
+        "name": "Bob", 
+        "email": "bob@example.com",
+        "designation":"Senior Backend Engineer",
+        "stack":["GO", "Docker", "PSQL","AWS","k8s"]
+     },
+    { 
+        "id": 3, 
+        "name": "Charlie", 
+        "email": "charlie@example.com",
+        "designation":"Midlevel Backend Engineer",
+        "stack":["GO", "PHP", "PSQL","AWS","k8s"]
+    },
+    { 
+        "id": 4, 
+        "name": "Kartika", 
+        "email": "kartika@example.com",
+        "designation":"QA",
+        "stack":["Automated Testing", "Cypress", "Postman","Selenium"]
+    }
+  ]
+  
